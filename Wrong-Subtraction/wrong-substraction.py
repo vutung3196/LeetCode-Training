@@ -5,4 +5,4 @@ for i in range(0, k):
         n /= 10
     else:
         n-=1
-print(n)
+print(int(n))
